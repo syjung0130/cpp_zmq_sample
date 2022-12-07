@@ -1,2 +1,2 @@
-# cpp_zmq_sample
+# C++ ZeroMQ Sample code.
 c++ zmq sample code.
